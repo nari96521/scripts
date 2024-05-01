@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "script argument list"
+echo "\$*value=$*"
+echo "\$@value=$@"
+echo "\$0value=$0"
+echo "\$1value=$1"
+echo "\$2value=$2"
+echo "\$3value=$3"
+echo "\$4value=$4"
+echo "\$5value=$5"
+echo "\$#value=$#"
+echo "\$$value=$$"
