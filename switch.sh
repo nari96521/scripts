@@ -1,6 +1,6 @@
 echo "enter activity input :"
 read key
-case $key in 
+case $key in
 start)
 systemctl start nfs.service
 echo "start the service"
